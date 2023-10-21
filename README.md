@@ -8,7 +8,7 @@
 <h1 align="center"> A17 BoT (Beta)
 </h1>
 <p align="center"> 
-  Hemlo, I am "A17" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hemlo, I am "Osiris" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
    <p align="center"> 
   <a href="https://github.com/Kai0071/A17/stargazers">
@@ -81,11 +81,11 @@
 - Edit your config details in your own repo like -- [`config.js`](https://github.com/Kai0071/A17/blob/master/config.js)
 ```js
 
-global.Owner = ["916297175943"];
-global.OwnerNumber = ["916297175943"];
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
+global.Owner = ["621043519"];
+global.OwnerNumber = ["621043519"];
+global.ownertag = ["621043519"];
+global.OwnerName = "Osiris";
+global.BotName = "A(b)ime moi";
 
 ```
      
